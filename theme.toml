@@ -1,0 +1,21 @@
+# Drafty theme for Hugo
+#
+# Objectives: Track latest Hugo release and major changes while keeping the
+# design and authoring process as flexible and as simple as possible.
+
+name = "drafty"
+license = "MIT"
+licenselink = "https://github.com/solutionroute/drafty/blob/master/LICENSE"
+description = "A performant theme for Hugo styled with Tailwindcss"
+
+homepage = "https://github.com/solutionroute/drafty/"
+# demosite = "https://solutionroute.github.io/drafty/"
+
+tags = ["responsive", "tailwind", "tailwindcss", "blog", "portfolio", "landing", "nonprofit"]
+# not yet implemented
+# 
+# features = [""]
+
+[author]
+  name = "Mike Watkins"
+  homepage = "https://github.solutionroute.com/"
